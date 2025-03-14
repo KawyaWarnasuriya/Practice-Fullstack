@@ -1,0 +1,18 @@
+h1{
+    font-size: 50px;
+}
+
+span{
+    color: darkblue;
+}
+
+.box p{
+    font-size: 22px;
+}
+
+.box button{
+    display: block;
+    width: 300px;
+    max-width: 0 auto;
+
+}
